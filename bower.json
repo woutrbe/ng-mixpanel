@@ -1,0 +1,20 @@
+{
+  "name": "ng-mixpanel",
+  "version": "0.1.0",
+  "homepage": "https://github.com/woutrbe/ng-mixpanel",
+  "authors": [
+    "Wouter <wouter@woutr.me>"
+  ],
+  "description": "A simple Angular service for Mixpanel",
+  "keywords": [
+    "angular",
+    "mixpanel",
+    "ng"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "npm-debug.log",
+    "/node_modules"
+  ]
+}
